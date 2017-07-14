@@ -28,7 +28,7 @@ class ScriptCounter {
       let playTitle = null;
       let currentSpeaker = null;
       const titleRegEx = /<TITLE>(.*?)<\/TITLE>/;
-      const speakerRegEx = /<SPEAKER>([A-Za-z0-9]*)<\/SPEAKER>/;
+      const speakerRegEx = /<SPEAKER>(.?*)<\/SPEAKER>/;
       const lineRegEx = /<LINE>.*?<\/LINE>/;
       for (let line of lines) {
         if (!playTitle && titleRegEx.test(line)){
