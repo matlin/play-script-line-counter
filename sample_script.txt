@@ -1,0 +1,35 @@
+<SPEECH>
+<SPEAKER>DUNCAN</SPEAKER>
+<LINE>What bloody man is that? He can report,</LINE>
+<LINE>As seemeth by his plight, of the revolt</LINE>
+<LINE>The newest state.</LINE>
+</SPEECH>
+<SPEECH>
+<SPEAKER>MALCOLM</SPEAKER>
+<LINE>This is the sergeant</LINE>
+<LINE>Who like a good and hardy soldier fought</LINE>
+<LINE>'Gainst my captivity. Hail, brave friend!</LINE>
+<LINE>Say to the king the knowledge of the broil</LINE>
+<LINE>As thou didst leave it.</LINE>
+</SPEECH>
+<SPEECH>
+<SPEAKER>Sergeant</SPEAKER>
+<LINE>Doubtful it stood;</LINE>
+<LINE>As two spent swimmers, that do cling together</LINE>
+<LINE>And choke their art. The merciless Macdonwald--</LINE>
+<LINE>Worthy to be a rebel, for to that</LINE>
+<LINE>The multiplying villanies of nature</LINE>
+<LINE>Do swarm upon him--from the western isles</LINE>
+<LINE>Of kerns and gallowglasses is supplied;</LINE>
+<LINE>And fortune, on his damned quarrel smiling,</LINE>
+<LINE>Show'd like a rebel's whore: but all's too weak:</LINE>
+<LINE>For brave Macbeth--well he deserves that name--</LINE>
+<LINE>Disdaining fortune, with his brandish'd steel,</LINE>
+<LINE>Which smoked with bloody execution,</LINE>
+<LINE>Like valour's minion carved out his passage</LINE>
+<LINE>Till he faced the slave;</LINE>
+<LINE>Which ne'er shook hands, nor bade farewell to him,</LINE>
+<LINE>Till he unseam'd him from the nave to the chaps,</LINE>
+<LINE>And fix'd his head upon our battlements.</LINE>
+</SPEECH>
+<SPEECH>

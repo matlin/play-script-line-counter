@@ -1,0 +1,27 @@
+{
+  "name": "script-line-counter",
+  "version": "1.0.0",
+  "description": "Counts characters' line counts in scripts that are in XML ",
+  "main": "main.js",
+  "engines": {
+    "node": "7.10.x"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js",
+    "heroku-postbuild": "cd script-counter/ && yarn install && yarn install --only=dev --no-shrinkwrap && yarn build"
+  },
+  "cacheDirectories": [
+    "node_modules",
+    "script-counter/node_modules"
+  ],
+  "author": "Matthew Linkous <matthew.linkous@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matlin/play-script-line-counter"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
