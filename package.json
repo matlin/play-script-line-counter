@@ -22,6 +22,11 @@
   },
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.3"
+    "express": "^4.15.3",
+    "xml2js": "^0.4.17"
+  },
+  "devDependencies": {
+    "supertest": "^3.0.0",
+    "tape": "^4.7.0"
   }
 }

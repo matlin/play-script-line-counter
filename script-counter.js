@@ -1,4 +1,5 @@
 const http = require('http');
+
 class ScriptCounter {
   static async analyze(url) {
       return new Promise(function(resolve, reject) {
