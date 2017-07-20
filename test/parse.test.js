@@ -7,7 +7,7 @@ test("Script Parser builds parser from parameters", assert => {
   assert.equal(
     typeof parser,
     "function",
-    "Given two mismatched values, .equal() should produce a nice bug report"
+    "The returned parser needs to be a function/class"
   );
   assert.end();
 });
